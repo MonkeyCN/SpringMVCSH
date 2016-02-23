@@ -8,6 +8,7 @@
 	<name>SpringMVCSH Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
+	
 	</dependencies>
 	<build>
 		<finalName>SpringMVCSH</finalName>
